@@ -34,7 +34,7 @@ pipeline {
 
         }
 
-		stage('Docker Build Vimal') {
+		stage('Docker Builds Vimal') {
 
             steps{
 
