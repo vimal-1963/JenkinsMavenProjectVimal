@@ -1,4 +1,3 @@
-[22:09] Teena Abraham
 pipeline {
 
     agent any
